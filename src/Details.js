@@ -38,7 +38,14 @@ export const personalDetails = {
   name: "Piyush Mani Chaubey",
   tagline: "I build things for web",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `Strong in design and integration with intuitive problem-solving skills. I am proficient in
+
+  !! Frontend Development !! Web development !! Html !! CSS !! JavaScript !! React-Js !! Redux !! Tailwind !! Bootstrap !! Problem Solving !! Git & GitHub !!
+  
+  Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to WORK as Front-end engineer with a reputed firm driven by technology.
+  
+  
+   `,
 };
 
 // Enter your Social Media URLs here
@@ -53,24 +60,24 @@ export const socialMediaUrl = {
 export const workDetails = [
   {
     Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Company: `ConsoleBit Technologies Pvt. Ltd`,
+    Location: "Gurugram",
     Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "May 2023 - Till Now",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Full Stack Developer",
+    Company: `Ineuron.ai`,
+    Location: "Remote",
+    Type: "Full Time",
+    Duration: "July 2022 - April 2023",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Software Engineer",
+    Company: `PepCoding Education India Pvt Ltd`,
+    Location: "Noida",
+    Type: "Full Time",
+    Duration: "Aug 2021 - June 2022",
   },
 ];
 
